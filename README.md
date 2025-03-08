@@ -1,8 +1,28 @@
-# React + Vite
+# Iphone Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao repositório da **Calculadora de Iphone**! Este projeto foi desenvolvido para a **Summer Academy da Accenture**, utilizando **React.js** para criar uma interface semelhante à calculadora nativa do iOS.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/367d40ab-bf0f-4ef2-98f3-18e99bd1a6e1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+- **React.js**: Estrutura da aplicação.
+- **CSS**: Estilização personalizada para replicar o design da calculadora do iPhone.
+- **JavaScript**: Implementação das operações matemáticas.
+
+## Funcionalidades
+
+- Interface minimalista e intuitiva, baseada no design do iPhone.
+- Operações matemáticas básicas: soma, subtração, multiplicação e divisão.
+- Botão de limpar (AC) para redefinir os cálculos.
+
+## Melhorias Futuras
+
+- Implementar o modo científico da calculadora do iOS.
+- Adicionar animações mais fluidas para uma experiência ainda mais próxima do iPhone.
+
+## Entre em Contato Comigo
+
+- **Email**: contatomurilodays@email.com  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/murilodays/"> murilodays </a>
+- **Telefone/WhatsApp**: <a href="https://wa.me/message/ONXRU2RSDSNEE1"> +55 81 9 9608 5335 </a>

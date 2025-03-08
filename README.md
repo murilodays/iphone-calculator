@@ -1,6 +1,6 @@
 # Iphone Calculator
 
-Bem-vindo ao repositório da **Calculadora de Iphone**! Este projeto foi desenvolvido para a **Summer Academy da Accenture**, utilizando **React.js** para criar uma interface semelhante à calculadora nativa do iOS.
+Bem-vindo ao repositório da **Calculadora de Iphone**! Este projeto foi desenvolvido para a **Summer Academy** da **Accenture**, utilizando **React.js** para criar uma interface semelhante à calculadora nativa do iOS.
 
 ![image](https://github.com/user-attachments/assets/367d40ab-bf0f-4ef2-98f3-18e99bd1a6e1)
 
@@ -24,6 +24,6 @@ Bem-vindo ao repositório da **Calculadora de Iphone**! Este projeto foi desenvo
 
 ## Entre em Contato Comigo
 
-- **Email**: contatomurilodays@email.com  
+- **Email**: contatomurilodays@gmail.com  
 - **LinkedIn**: <a href="https://www.linkedin.com/in/murilodays/"> murilodays </a>
-- **Telefone/WhatsApp**: <a href="https://wa.me/message/ONXRU2RSDSNEE1"> +55 81 9 9608 5335 </a>
+- **Telefone/WhatsApp**: <a href="https://wa.me/message/ONXRU2RSDSNEE1"> +55 81 9 9608-5335 </a>

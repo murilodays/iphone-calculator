@@ -19,6 +19,7 @@ Bem-vindo ao repositório da **Calculadora de Iphone**! Este projeto foi desenvo
 ## Melhorias Futuras
 
 - Implementar o modo científico da calculadora do iOS.
+- Adicionar o restante das funções da calculadora.
 - Adicionar animações mais fluidas para uma experiência ainda mais próxima do iPhone.
 
 ## Entre em Contato Comigo
